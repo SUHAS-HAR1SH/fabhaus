@@ -1,0 +1,6 @@
+{
+  "name": "Fab Haus — Architecture & Fabrication",
+  "description": "Full-bleed cinematic architecture and fabrication landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
